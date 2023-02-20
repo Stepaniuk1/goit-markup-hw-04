@@ -407,6 +407,7 @@ img {
 
 .filter-link {
   display: block;
+  text-decoration: none;
 }
 
 .filter-link:hover,
